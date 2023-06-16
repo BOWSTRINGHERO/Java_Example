@@ -5,6 +5,6 @@ public interface Animals {
 
     public void Sleep();
 
-    Kitten kittenObject = new Kitten;
+//    Kitten kittenObject = new Kitten;
 }
 

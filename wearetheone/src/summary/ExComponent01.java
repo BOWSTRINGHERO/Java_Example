@@ -17,9 +17,9 @@ public class ExComponent01 {
         JButton obj2 = new JButton(new ImageIcon("cat.png"));
         JButton obj3 = new JButton("고양이", new ImageIcon("cat.png"));
 
-        Panel.add(obj1);
-        Panel.add(obj2);
-        Panel.add(obj3);
+//        Panel.add(obj1);
+//        Panel.add(obj2);
+//        Panel.add(obj3);
 
         frame.setVisible(true);
     }
